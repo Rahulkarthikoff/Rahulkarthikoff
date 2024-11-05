@@ -4,7 +4,7 @@
 - 💬 Ask me about AI, web development, or data science.
 
 ### 🚀 Skills & Technologies
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: Java, Python, JavaScript
 - Frameworks & Libraries: React, Node.js, TensorFlow
 - Tools: Docker, Git, Power BI
 
