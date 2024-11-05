@@ -22,7 +22,7 @@
 
 ### 📫 Contact Me
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rahulkarthikeyanoff)
-- Leetcode: [Your Leetcode Handle]([https://leetcode.com/u/rahuldarsh2005/])
+- Leetcode: [Your Leetcode Handle](https://leetcode.com/u/rahuldarsh2005/)
 
 
 
