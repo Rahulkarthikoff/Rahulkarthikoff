@@ -8,13 +8,9 @@
 - Frameworks & Libraries: React, Node.js, TensorFlow
 - Tools: Docker, Git, Power BI
 
-### 📂 Featured Projects
-- [Plant Disease Detector 🌿](https://github.com/Karrhik/plant-disease-detector) - A project that uses machine learning to detect plant diseases.
-- [Smart Parking System 🚗](https://github.com/Karrhik/smart-parking-system) - Tracks vehicle slots and detects parking issues.
-
 
 ### 📈 GitHub Stats
-![Karrhik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulkarthikoff&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulkarthikoff&show_icons=true&theme=radical)
 
 ### 🌱 Contributions
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rahulkarthikoff&theme=react-dark)
@@ -59,4 +55,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📂 Featured Projects
+- [Plant Disease Detector 🌿](https://github.com/Karrhik/plant-disease-detector) - A project that uses machine learning to detect plant diseases.
+- [Smart Parking System 🚗](https://github.com/Karrhik/smart-parking-system) - Tracks vehicle slots and detects parking issues.
 -->
