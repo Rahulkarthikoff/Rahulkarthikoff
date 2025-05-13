@@ -6,7 +6,7 @@
 ### 🚀 Skills & Technologies
 - Programming Languages: Java, Python, JavaScript
 - Frameworks & Libraries: React, Node.js, TensorFlow
-- Tools: Git, Power BI
+- Tools: Git, Power BI, Tableau
 
 
 ### 📈 GitHub Stats
